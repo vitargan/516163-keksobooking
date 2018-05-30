@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виталий Хоркин](https://up.htmlacademy.ru/javascript/14/user/516163).
-* Наставник: `Неизвестно`.
+* Наставник: `Денис Байдаров`.
 
 ---
 
